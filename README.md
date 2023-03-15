@@ -19,6 +19,8 @@
   <img align="center" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />  
   <img align="center" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />  
   <img align="center" height="70" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" />
+  <img align="center" height="40" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+          
   <!--<img align="right" height="80" width="120" src= "https://media.giphy.com/media/aQCCNezRpb9Hq/giphy.gif"> -->
           
 </div>
