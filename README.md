@@ -8,6 +8,8 @@
  
 - 🤔 Estou sempre buscando consiliar o trabalho e os estudos, com as melhores praticas de mercado.
 
+- :man_health_worker: Busco uma posição que me permita trabalhar em um ambiente dinâmico e colaborativo, onde possa aprender e contribuir com minhas experiências e conhecimentos.
+
 
 <div>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=scgilberto&theme=great-gatsby&show_icons=true&include_all_commits=true&count_private-true"/>       
